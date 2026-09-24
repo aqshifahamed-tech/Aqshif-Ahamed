@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <g fill="#000000">
+    <!-- Left diagonal stem of 'A' -->
+    <path d="M 189 144 L 255 268 L 223 268 L 189 204 Z" />
+
+    <!-- Center/Right overlapping crescent forms of 'Q' -->
+    <path d="M 285 144 C 235 144 242 268 285 268 C 252 240 252 172 285 144 Z" />
+    <path d="M 321 144 C 371 144 364 268 321 268 C 354 240 354 172 321 144 Z" />
+
+    <!-- 'Q' swash / tail -->
+    <path d="M 253 277 C 280 307 330 307 365 268 C 350 282 315 288 285 277 C 270 272 260 273 253 277 Z" />
+
+    <!-- Wordmark: AQSHIF -->
+    <text x="250" y="330" font-family="'Montserrat', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="8" text-anchor="middle">AQSHIF</text>
+  </g>
+</svg>
